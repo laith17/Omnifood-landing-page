@@ -5,6 +5,7 @@ Deployed Website: https://omnifood-laith.netlify.app
 # Built With
 * HTML
 * CSS
+* JavaScript
 # Acknowledgements
 * Build Responsive Real-World Websites with HTML and CSS by Jonas Schmedtmann
 
