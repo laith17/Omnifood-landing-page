@@ -7,5 +7,5 @@ Deployed Website: https://omnifood-laith.netlify.app
 * CSS
 * JavaScript
 # Acknowledgements
-* Build Responsive Real-World Websites with HTML and CSS by Jonas Schmedtmann
+* This project is part of the online course I've taken at Udemy. Thanks to Jonas Schmedtmann for creating this awesome course! Link to the course: [Build Responsive Real-World Websites with HTML and CSS](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/)
 
